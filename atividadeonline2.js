@@ -1,13 +1,13 @@
 // Variáveis do participante
-let dataEvento = new Date("2022, 11, 26")
-let idadeParticipante = 101
-let participantesEvento = 5
+let dataEvento = new Date("2022, 11, 26") //data do evento
+let idadeParticipante = 101 //idade do participante
+let participantesEvento = 5 //numero de participantes no evento
 
 // Constantes
-let dataAtual = new Date()
-let limiteParticipantes = 100
-let idadeLimite = 18
-let participantesCadastrados = 0
+let dataAtual = new Date() //data atual
+let limiteParticipantes = 100 //limite de participantes por evento
+let idadeLimite = 18 //idade mínima para participação
+let participantesCadastrados = 0 //
 
 // Codigo
 
